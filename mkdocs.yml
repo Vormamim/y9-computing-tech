@@ -13,18 +13,21 @@ theme:
     - search.highlight
     - content.code.copy
     - content.code.annotate
+  # Vormamim house style: dark only, colours set in assets/house-style.css
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      toggle: {icon: material/weather-night, name: Dark mode}
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: indigo
-      toggle: {icon: material/weather-sunny, name: Light mode}
+    scheme: slate
+    primary: custom
+    accent: custom
+  font:
+    text: IBM Plex Mono
+    code: IBM Plex Mono
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
 
 extra_css:
+  - https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap
   - assets/extra.css
+  - assets/house-style.css
 
 markdown_extensions:
   - admonition

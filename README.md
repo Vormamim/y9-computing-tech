@@ -51,7 +51,9 @@ On a Mac or Linux machine, use `.venv/bin/` instead of `.venv/Scripts/`.
 | `docs/` | **The course content. This is what you edit.** One `.md` file per page. |
 | `docs/assets/files/` | Images and attachments (PDFs etc.) from GitBook |
 | `docs/assets/drive/` | Downloaded Google Slides/Docs exports and PDFs |
-| `docs/assets/extra.css` | Small style tweaks (video sizing, step lists) |
+| `docs/assets/house-style.css` | **Vormamim house style** (dark theme, colours, fonts). The colour tokens at the top match the house style; change them there. |
+| `docs/assets/logo.svg` | Vormamim logo (header and browser tab) |
+| `docs/assets/extra.css` | Small layout tweaks (video sizing, step lists) |
 | `mkdocs.yml` | Site settings **and the sidebar menu** (the `nav:` section) |
 | `raw/` | The original GitBook export. Archive only, don't edit. |
 | `tools/` | The scripts that did the migration. You won't normally need them. |
