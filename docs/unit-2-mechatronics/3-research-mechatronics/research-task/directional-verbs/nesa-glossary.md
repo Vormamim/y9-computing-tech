@@ -1,0 +1,3 @@
+# NESA Glossary
+
+<table><thead><tr><th width="151">Verb</th><th>Definition</th></tr></thead><tbody><tr><td>Analyse</td><td><p>Identify components and the relationship between them.</p><p></p><p>Draw out and relate implications.</p></td></tr><tr><td>Assess</td><td>Make a judgement of value, quality, outcomes, results or size.</td></tr><tr><td>Describe</td><td>Provide characteristics and features.</td></tr><tr><td>Examine</td><td>Inquire into.</td></tr><tr><td>Explain</td><td><p>Relate cause and effect.</p><p></p><p>Make the relationships between things evident.</p><p></p><p>Provide why and/or how.</p></td></tr><tr><td>Outline</td><td>Sketch in general terms; indicate the main features of.</td></tr></tbody></table>

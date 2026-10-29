@@ -1,0 +1,1499 @@
+{
+  "base": "https://gosford-high-school.gitbook.io/9-computing-tech",
+  "pages": [
+    {
+      "section": "9 Computing Tech",
+      "title": "9 Computing Tech",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/9-computing-tech",
+      "slug": "9-computing-tech"
+    },
+    {
+      "section": "9 Computing Tech",
+      "title": "Course Information",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/course-information",
+      "slug": "course-information"
+    },
+    {
+      "section": "9 Computing Tech",
+      "title": "Course Rationale",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/course-information/course-rationale",
+      "slug": "course-information/course-rationale"
+    },
+    {
+      "section": "9 Computing Tech",
+      "title": "2026 Assessment Schedule",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/course-information/2026-assessment-schedule",
+      "slug": "course-information/2026-assessment-schedule"
+    },
+    {
+      "section": "9 Computing Tech",
+      "title": "Using GitBook",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/course-information/using-gitbook",
+      "slug": "course-information/using-gitbook"
+    },
+    {
+      "section": "9 Computing Tech",
+      "title": "Get Started!",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/get-started",
+      "slug": "get-started"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Unit 1 - Data Science",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/1-unit-introduction/unit-1-data-science",
+      "slug": "unit-2-data-science/1-unit-introduction/unit-1-data-science"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Revisiting Python",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/2-programming-and-algorithms/revisiting-python",
+      "slug": "unit-2-data-science/2-programming-and-algorithms/revisiting-python"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Python Pre-Assessment",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/2-programming-and-algorithms/revisiting-python/python-pre-assessment",
+      "slug": "unit-2-data-science/2-programming-and-algorithms/revisiting-python/python-pre-assessment"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Grok Academy: Introduction to Python",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/2-programming-and-algorithms/revisiting-python/grok-academy-introduction-to-python",
+      "slug": "unit-2-data-science/2-programming-and-algorithms/revisiting-python/grok-academy-introduction-to-python"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "For More Advanced Users",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/2-programming-and-algorithms/revisiting-python/for-more-advanced-users",
+      "slug": "unit-2-data-science/2-programming-and-algorithms/revisiting-python/for-more-advanced-users"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Flowcharts and Pseudocode",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode",
+      "slug": "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Pseudocode Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode/pseudocode-activities",
+      "slug": "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode/pseudocode-activities"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Flowchart Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode/flowchart-activities",
+      "slug": "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode/flowchart-activities"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Introduction to Information Systems",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/3-introduction-to-information-systems/introduction-to-information-systems",
+      "slug": "unit-2-data-science/3-introduction-to-information-systems/introduction-to-information-systems"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Workbook and Slides",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides",
+      "slug": "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "3.1 What are Information Systems?",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.1-what-are-information-systems",
+      "slug": "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.1-what-are-information-systems"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "3.2 Hardware",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.2-hardware",
+      "slug": "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.2-hardware"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "3.3 Software",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.3-software",
+      "slug": "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.3-software"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "3.4 Data and Information",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.4-data-and-information",
+      "slug": "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.4-data-and-information"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "3.5 People and Processes",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.5-people-and-processes",
+      "slug": "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.5-people-and-processes"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "3.6 Issues and Cybersecurity",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.6-issues-and-cybersecurity",
+      "slug": "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.6-issues-and-cybersecurity"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Why Learn Data Science?",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/4-data-science/why-learn-data-science",
+      "slug": "unit-2-data-science/4-data-science/why-learn-data-science"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Imagine...",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/4-data-science/why-learn-data-science/imagine...",
+      "slug": "unit-2-data-science/4-data-science/why-learn-data-science/imagine..."
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "So why learn it?",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/4-data-science/why-learn-data-science/so-why-learn-it",
+      "slug": "unit-2-data-science/4-data-science/why-learn-data-science/so-why-learn-it"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "What If...?",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/4-data-science/why-learn-data-science/what-if...",
+      "slug": "unit-2-data-science/4-data-science/why-learn-data-science/what-if..."
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Excel and Data Analysis",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/4-data-science/excel-and-data-analysis",
+      "slug": "unit-2-data-science/4-data-science/excel-and-data-analysis"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Questions to Complete",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/4-data-science/excel-and-data-analysis/questions-to-complete",
+      "slug": "unit-2-data-science/4-data-science/excel-and-data-analysis/questions-to-complete"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Data Science with Python Tutorials",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/4-data-science/data-science-with-python-tutorials",
+      "slug": "unit-2-data-science/4-data-science/data-science-with-python-tutorials"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Accessing the Tutorials",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/4-data-science/data-science-with-python-tutorials/accessing-the-tutorials",
+      "slug": "unit-2-data-science/4-data-science/data-science-with-python-tutorials/accessing-the-tutorials"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Big Mac Data Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/4-data-science/data-science-with-python-tutorials/big-mac-data-activities",
+      "slug": "unit-2-data-science/4-data-science/data-science-with-python-tutorials/big-mac-data-activities"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Task 1",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/5-task-guide/task-1",
+      "slug": "unit-2-data-science/5-task-guide/task-1"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Setting up Git Repository",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/5-task-guide/task-1/setting-up-git-repository",
+      "slug": "unit-2-data-science/5-task-guide/task-1/setting-up-git-repository"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Setting up Markdown / Jupyter",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/5-task-guide/task-1/setting-up-markdown-jupyter",
+      "slug": "unit-2-data-science/5-task-guide/task-1/setting-up-markdown-jupyter"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Phase 1: Identifying and Defining",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/5-task-guide/phase-1-identifying-and-defining",
+      "slug": "unit-2-data-science/5-task-guide/phase-1-identifying-and-defining"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Requirements Outline",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/5-task-guide/phase-1-identifying-and-defining/requirements-outline",
+      "slug": "unit-2-data-science/5-task-guide/phase-1-identifying-and-defining/requirements-outline"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Phase 2: Researching and Planning",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/5-task-guide/phase-2-researching-and-planning",
+      "slug": "unit-2-data-science/5-task-guide/phase-2-researching-and-planning"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Data Dictionary",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/5-task-guide/phase-2-researching-and-planning/data-dictionary",
+      "slug": "unit-2-data-science/5-task-guide/phase-2-researching-and-planning/data-dictionary"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Phase 3: Producing and Implementing",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/5-task-guide/phase-3-producing-and-implementing",
+      "slug": "unit-2-data-science/5-task-guide/phase-3-producing-and-implementing"
+    },
+    {
+      "section": "Unit 1 - Data Science",
+      "title": "Phase 4: Testing and Evaluating",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-data-science/5-task-guide/phase-4-testing-and-evaluating",
+      "slug": "unit-2-data-science/5-task-guide/phase-4-testing-and-evaluating"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Programming Mechatronics",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/1-unit-introduction/programming-mechatronics",
+      "slug": "unit-2-mechatronics/1-unit-introduction/programming-mechatronics"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Theory Content",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/1-unit-introduction/programming-mechatronics/theory-content",
+      "slug": "unit-2-mechatronics/1-unit-introduction/programming-mechatronics/theory-content"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Representing Algorithms",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/2-representing-algorithms/representing-algorithms",
+      "slug": "unit-2-mechatronics/2-representing-algorithms/representing-algorithms"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Further Examples",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/2-representing-algorithms/representing-algorithms/further-examples",
+      "slug": "unit-2-mechatronics/2-representing-algorithms/representing-algorithms/further-examples"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Pseudocode Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/2-representing-algorithms/representing-algorithms/pseudocode-activities",
+      "slug": "unit-2-mechatronics/2-representing-algorithms/representing-algorithms/pseudocode-activities"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Flowchart Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/2-representing-algorithms/representing-algorithms/flowchart-activities",
+      "slug": "unit-2-mechatronics/2-representing-algorithms/representing-algorithms/flowchart-activities"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Research Task",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/3-research-mechatronics/research-task",
+      "slug": "unit-2-mechatronics/3-research-mechatronics/research-task"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Instructions",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/3-research-mechatronics/research-task/instructions",
+      "slug": "unit-2-mechatronics/3-research-mechatronics/research-task/instructions"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Choices Explained",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/3-research-mechatronics/research-task/choices-explained",
+      "slug": "unit-2-mechatronics/3-research-mechatronics/research-task/choices-explained"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Directional Verbs",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/3-research-mechatronics/research-task/directional-verbs",
+      "slug": "unit-2-mechatronics/3-research-mechatronics/research-task/directional-verbs"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "NESA Glossary",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/3-research-mechatronics/research-task/directional-verbs/nesa-glossary",
+      "slug": "unit-2-mechatronics/3-research-mechatronics/research-task/directional-verbs/nesa-glossary"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Working Collaboratively",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/3-research-mechatronics/research-task/working-collaboratively",
+      "slug": "unit-2-mechatronics/3-research-mechatronics/research-task/working-collaboratively"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Raspberry Pi PICO Tutorials",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/3-raspberry-pi-pico/raspberry-pi-pico-tutorials",
+      "slug": "unit-2-mechatronics/3-raspberry-pi-pico/raspberry-pi-pico-tutorials"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Tutorials",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/3-raspberry-pi-pico/raspberry-pi-pico-tutorials/tutorials",
+      "slug": "unit-2-mechatronics/3-raspberry-pi-pico/raspberry-pi-pico-tutorials/tutorials"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Mechatronics Project",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/mechatronics-project",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/mechatronics-project"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Before We Start",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Setting Up GitHub Repository",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-github-repository",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-github-repository"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Setting Up Markdown Documentation",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-markdown-documentation",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-markdown-documentation"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Task Guide",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Requirements Outline",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/requirements-outline",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/requirements-outline"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Algorithms",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/algorithms",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/algorithms"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Development and Integration",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/development-and-integration",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/development-and-integration"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Comments vs Docstrings",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/development-and-integration/comments-vs-docstrings",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/development-and-integration/comments-vs-docstrings"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "For Your Assessment Task",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/development-and-integration/for-your-assessment-task",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/development-and-integration/for-your-assessment-task"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Testing and Debugging",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/testing-and-debugging",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/testing-and-debugging"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Test Cases",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/testing-and-debugging/test-cases",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/testing-and-debugging/test-cases"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Final Product",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/testing-and-debugging/final-product",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/testing-and-debugging/final-product"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Evaluation",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/evaluation",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/evaluation"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Peer Evaluation: PMI",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/evaluation/peer-evaluation-pmi",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/evaluation/peer-evaluation-pmi"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Final Evaluation Questions",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/task-guide/evaluation/final-evaluation-questions",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/task-guide/evaluation/final-evaluation-questions"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Markdown Formatting Guide",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/markdown-formatting-guide",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/markdown-formatting-guide"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Setting up GitHub",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/setting-up-github",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/setting-up-github"
+    },
+    {
+      "section": "Unit 2 - Mechatronics",
+      "title": "Submitting Your Task",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/4-assessment-task-2/submitting-your-task",
+      "slug": "unit-2-mechatronics/4-assessment-task-2/submitting-your-task"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Game Design and Requirements",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/1-game-design-theory/game-design-and-requirements",
+      "slug": "unit-3-games-and-simulations/1-game-design-theory/game-design-and-requirements"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/1-game-design-theory/game-design-and-requirements/activities",
+      "slug": "unit-3-games-and-simulations/1-game-design-theory/game-design-and-requirements/activities"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "User Interface and Controls",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/1-game-design-theory/user-interface-and-controls",
+      "slug": "unit-3-games-and-simulations/1-game-design-theory/user-interface-and-controls"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/1-game-design-theory/user-interface-and-controls/activities",
+      "slug": "unit-3-games-and-simulations/1-game-design-theory/user-interface-and-controls/activities"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Ethical, Social and Legal Issues",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/1-game-design-theory/ethical-social-and-legal-issues",
+      "slug": "unit-3-games-and-simulations/1-game-design-theory/ethical-social-and-legal-issues"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/1-game-design-theory/ethical-social-and-legal-issues/activities",
+      "slug": "unit-3-games-and-simulations/1-game-design-theory/ethical-social-and-legal-issues/activities"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "IPO Charts",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/ipo-charts",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/ipo-charts"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/ipo-charts/activities",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/ipo-charts/activities"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Context Diagrams",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/context-diagrams",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/context-diagrams"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/context-diagrams/activities",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/context-diagrams/activities"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Data Flow Diagrams",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/data-flow-diagrams",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/data-flow-diagrams"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/data-flow-diagrams/activities",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/data-flow-diagrams/activities"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Structure Charts",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/structure-charts",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/structure-charts"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/structure-charts/activities",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/structure-charts/activities"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Decision Trees",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/decision-trees",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/decision-trees"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Activities",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/2-modelling-systems/decision-trees/activities",
+      "slug": "unit-3-games-and-simulations/2-modelling-systems/decision-trees/activities"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Learning Outcomes",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/learning-outcomes",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/learning-outcomes"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Samples from Previous Years",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/samples-from-previous-years",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/samples-from-previous-years"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "Common Issues",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/common-issues",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/common-issues"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "C# Scripts",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/c-scripts",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/c-scripts"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "1 - Unity Course Introduction",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/1-unity-course-introduction",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/1-unity-course-introduction"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "2 - Create your Character Sprites",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/2-create-your-character-sprites",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/2-create-your-character-sprites"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "3 - Unity Interface and Setup",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/3-unity-interface-and-setup",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/3-unity-interface-and-setup"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "4 - Animating the Player",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/4-animating-the-player",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/4-animating-the-player"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "5 - Controlling the Player",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/5-controlling-the-player",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/5-controlling-the-player"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "6 - Creating a tile Spritesheet",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/6-creating-a-tile-spritesheet",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/6-creating-a-tile-spritesheet"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "7 - Obstacles",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/7-obstacles",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/7-obstacles"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "8 - Collectibles",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/8-collectibles",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/8-collectibles"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "9 - Backgrounds",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/9-backgrounds",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/9-backgrounds"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "10 - Creating a Splashscreen",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/10-creating-a-splashscreen",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/10-creating-a-splashscreen"
+    },
+    {
+      "section": "Unit 3 - Games and Simulations",
+      "title": "11 - Finishing your Game",
+      "url": "https://gosford-high-school.gitbook.io/9-computing-tech/unit-3-games-and-simulations/3-unity-tutorials/11-finishing-your-game",
+      "slug": "unit-3-games-and-simulations/3-unity-tutorials/11-finishing-your-game"
+    }
+  ],
+  "files": {
+    "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2FHVBsVf46mG3VCKgy6yTP%2Fimage.png?alt=media&amp;token=9a881036-1b9a-4cd7-af37-0782365cce4b": {
+      "pages": [
+        "course-information/2026-assessment-schedule"
+      ],
+      "url": "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2FHVBsVf46mG3VCKgy6yTP%2Fimage.png?alt=media&token=9a881036-1b9a-4cd7-af37-0782365cce4b",
+      "local": "files/HVBsVf46mG3VCKgy6yTP__image.png"
+    },
+    "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2FKhGJFV6WIoJwujF5fjos%2Fimage.png?alt=media&amp;token=4327f814-18e3-48b2-b5b1-2a3df2cb70f8": {
+      "pages": [
+        "course-information/using-gitbook"
+      ],
+      "url": "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2FKhGJFV6WIoJwujF5fjos%2Fimage.png?alt=media&token=4327f814-18e3-48b2-b5b1-2a3df2cb70f8",
+      "local": "files/KhGJFV6WIoJwujF5fjos__image.png"
+    },
+    "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2Fvbva9ORwr0PGtZ2R1UQQ%2Fimage.png?alt=media&amp;token=fb778680-36ff-407d-9354-63ad8fd16cd3": {
+      "pages": [
+        "course-information/using-gitbook"
+      ],
+      "url": "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2Fvbva9ORwr0PGtZ2R1UQQ%2Fimage.png?alt=media&token=fb778680-36ff-407d-9354-63ad8fd16cd3",
+      "local": "files/vbva9ORwr0PGtZ2R1UQQ__image.png"
+    },
+    "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2F375jM3WtXZ2FZKPfAPpI%2Fimage.png?alt=media&amp;token=c3120621-9dd7-4274-8cc3-b7df96ef0071": {
+      "pages": [
+        "course-information/using-gitbook"
+      ],
+      "url": "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2F375jM3WtXZ2FZKPfAPpI%2Fimage.png?alt=media&token=c3120621-9dd7-4274-8cc3-b7df96ef0071",
+      "local": "files/375jM3WtXZ2FZKPfAPpI__image.png"
+    },
+    "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2F656gIEWn04ZfqZpc6yoa%2Fimage.png?alt=media": {
+      "pages": [
+        "get-started"
+      ],
+      "url": "https://3565964325-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FEGmf6EPHIJsaeZpscOlz%2Fuploads%2F656gIEWn04ZfqZpc6yoa%2Fimage.png?alt=media",
+      "local": "files/656gIEWn04ZfqZpc6yoa__image.png"
+    },
+    "/files/YP3WSuG57kTPXeuRq6xE": {
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode",
+        "unit-2-mechatronics/2-representing-algorithms/representing-algorithms"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FEikEDRlEhw9JgxDdzoN9%2FAlgorithms%2C%20Flowcharts%2C%20Pseudocode.PDF?alt=media&token=24b32d0c-d685-4d6b-9b03-1c1e962e9c06",
+      "local": "files/EikEDRlEhw9JgxDdzoN9__Algorithms, Flowcharts, Pseudocode.PDF"
+    },
+    "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FJmj14ND4PVyU76EX42do%2Fimage.png?alt=media&amp;token=47fbc022-4851-44d9-8bb1-7620c74c3890": {
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode/pseudocode-activities"
+      ],
+      "url": "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FJmj14ND4PVyU76EX42do%2Fimage.png?alt=media&token=47fbc022-4851-44d9-8bb1-7620c74c3890",
+      "local": "files/Jmj14ND4PVyU76EX42do__image.png"
+    },
+    "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FouYk1sJeNkJO1wzeBfzU%2Fimage.png?alt=media&amp;token=d7d21137-f3cd-43ad-b767-116a350e7381": {
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode/pseudocode-activities"
+      ],
+      "url": "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FouYk1sJeNkJO1wzeBfzU%2Fimage.png?alt=media&token=d7d21137-f3cd-43ad-b767-116a350e7381",
+      "local": "files/ouYk1sJeNkJO1wzeBfzU__image.png"
+    },
+    "/files/r3lvoF6CeQ5h3lXUXV31": {
+      "pages": [
+        "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides"
+      ],
+      "url": "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FBpH97TSlEm77L0eCQZh9%2F9CT%20Introductory%20Theory.pdf?alt=media&token=5b5ead58-1f0a-4055-9be6-64c01e930e78",
+      "local": "files/BpH97TSlEm77L0eCQZh9__9CT Introductory Theory.pdf"
+    },
+    "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FzfALBaxrEHpErCpsnrcc%2Fimage.png?alt=media&amp;token=fbf1759d-35c3-48ab-bbb9-096e52bf941d": {
+      "pages": [
+        "unit-2-data-science/4-data-science/why-learn-data-science"
+      ],
+      "url": "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FzfALBaxrEHpErCpsnrcc%2Fimage.png?alt=media&token=fbf1759d-35c3-48ab-bbb9-096e52bf941d",
+      "local": "files/zfALBaxrEHpErCpsnrcc__image.png"
+    },
+    "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FjzpPkkrPiDIGqkrjlMNg%2Fcrashed%20plane.jpg?alt=media&amp;token=00274b1a-80d7-473d-9055-1e3b2fa3f275": {
+      "pages": [
+        "unit-2-data-science/4-data-science/why-learn-data-science"
+      ],
+      "url": "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FjzpPkkrPiDIGqkrjlMNg%2Fcrashed%20plane.jpg?alt=media&token=00274b1a-80d7-473d-9055-1e3b2fa3f275",
+      "local": "files/jzpPkkrPiDIGqkrjlMNg__crashed plane.jpg"
+    },
+    "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FcSD4AS5hDxyvHD7S9q5Z%2Fcrashed%20mars%20orbiter.jpg?alt=media&amp;token=419c2927-95f2-441d-9dae-6bee0dbee769": {
+      "pages": [
+        "unit-2-data-science/4-data-science/why-learn-data-science"
+      ],
+      "url": "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FcSD4AS5hDxyvHD7S9q5Z%2Fcrashed%20mars%20orbiter.jpg?alt=media&token=419c2927-95f2-441d-9dae-6bee0dbee769",
+      "local": "files/cSD4AS5hDxyvHD7S9q5Z__crashed mars orbiter.jpg"
+    },
+    "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2Fro9OuFnocYgqqNCzatOT%2Fimage.png?alt=media&amp;token=1eb0b3dc-c4b1-4236-aef9-be17454c0cf9": {
+      "pages": [
+        "unit-2-data-science/5-task-guide/task-1/setting-up-git-repository"
+      ],
+      "url": "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2Fro9OuFnocYgqqNCzatOT%2Fimage.png?alt=media&token=1eb0b3dc-c4b1-4236-aef9-be17454c0cf9",
+      "local": "files/ro9OuFnocYgqqNCzatOT__image.png"
+    },
+    "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FNZhnRyndTtUIdBjvuLwF%2Fimage.png?alt=media&amp;token=2350bfde-9db9-4226-861f-77d9476e9568": {
+      "pages": [
+        "unit-2-data-science/5-task-guide/phase-2-researching-and-planning"
+      ],
+      "url": "https://1555389872-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fuh6LMcAbFJPiqmQDyhSY%2Fuploads%2FNZhnRyndTtUIdBjvuLwF%2Fimage.png?alt=media&token=2350bfde-9db9-4226-861f-77d9476e9568",
+      "local": "files/NZhnRyndTtUIdBjvuLwF__image.png"
+    },
+    "/files/xSMcwbhMtfUMcuLgfAik": {
+      "pages": [
+        "unit-2-mechatronics/1-unit-introduction/programming-mechatronics/theory-content"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FHXG3xKXNostnqPvH06xh%2FMechatronics%20Theory%20Booklet.pdf?alt=media&token=e95c1514-41e4-402e-ad42-02f2ceb98bb2",
+      "local": "files/HXG3xKXNostnqPvH06xh__Mechatronics Theory Booklet.pdf"
+    },
+    "/files/79uO6TUZfUlfEaNPoaWZ": {
+      "pages": [
+        "unit-2-mechatronics/1-unit-introduction/programming-mechatronics/theory-content"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FDRU9NtT5JBTnXkDAMFGS%2F1%20-%20What%20is%20Mechatronics.pdf?alt=media&token=d7af9800-6931-4cdb-a305-bb80762d2ce1",
+      "local": "files/DRU9NtT5JBTnXkDAMFGS__1 - What is Mechatronics.pdf"
+    },
+    "/files/mUrasQHP3ndOUv4qKYyz": {
+      "pages": [
+        "unit-2-mechatronics/1-unit-introduction/programming-mechatronics/theory-content"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2F2Eh7jPj8RXzxvcDtYZ0n%2F2%20-%20Sensors%20and%20Accelerometers.pdf?alt=media&token=8372b5fd-62bf-4c36-bc03-0bb66d63fc3f",
+      "local": "files/2Eh7jPj8RXzxvcDtYZ0n__2 - Sensors and Accelerometers.pdf"
+    },
+    "/files/62YY7ym2KJiPj4ei1SSL": {
+      "pages": [
+        "unit-2-mechatronics/1-unit-introduction/programming-mechatronics/theory-content"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FGeYMgEqyuAi0guxcRf1K%2F3%20-%20Actuators.pdf?alt=media&token=2d4bb3e3-677e-4fa6-af2c-9739e0f4d291",
+      "local": "files/GeYMgEqyuAi0guxcRf1K__3 - Actuators.pdf"
+    },
+    "/files/1mgSNMOCmIIS23vkUk1A": {
+      "pages": [
+        "unit-2-mechatronics/1-unit-introduction/programming-mechatronics/theory-content"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FHdU9nAfP0Ng9SWPGZxMy%2F4%20-%20Microprocessors%20and%20Control%20Systems.pdf?alt=media&token=f9edf3f5-bdfb-4cdd-944c-f6b60a99f586",
+      "local": "files/HdU9nAfP0Ng9SWPGZxMy__4 - Microprocessors and Control Systems.pdf"
+    },
+    "/files/u9KMbAYkDFE1pGu3Pm6w": {
+      "pages": [
+        "unit-2-mechatronics/1-unit-introduction/programming-mechatronics/theory-content"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FLAeXBMsuu6ge5jnwwgzP%2F5%20-%20Robotics%2C%20Social%20and%20Ethical%20Issues.pdf?alt=media&token=4fbbea7a-2f6d-4ff5-b711-9c7dad885523",
+      "local": "files/LAeXBMsuu6ge5jnwwgzP__5 - Robotics, Social and Ethical Issues.pdf"
+    },
+    "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2F0ftFQoJ8WftXELCfFcZx%2Fimage.png?alt=media&amp;token=ed60d241-c479-4d69-83c4-2f4d9f89bf89": {
+      "pages": [
+        "unit-2-mechatronics/2-representing-algorithms/representing-algorithms/further-examples"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2F0ftFQoJ8WftXELCfFcZx%2Fimage.png?alt=media&token=ed60d241-c479-4d69-83c4-2f4d9f89bf89",
+      "local": "files/0ftFQoJ8WftXELCfFcZx__image.png"
+    },
+    "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FYOaeBxBkxNy3SPyHyCAU%2Fimage.png?alt=media&amp;token=4611cb75-1573-4fbc-b278-d60c5086fc9b": {
+      "pages": [
+        "unit-2-mechatronics/2-representing-algorithms/representing-algorithms/pseudocode-activities"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FYOaeBxBkxNy3SPyHyCAU%2Fimage.png?alt=media&token=4611cb75-1573-4fbc-b278-d60c5086fc9b",
+      "local": "files/YOaeBxBkxNy3SPyHyCAU__image.png"
+    },
+    "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FIYiL8vZKJlABdDx9p0eI%2Fimage.png?alt=media&amp;token=e9dbc2d7-9cf2-4ecd-989b-8d09e1b9974f": {
+      "pages": [
+        "unit-2-mechatronics/2-representing-algorithms/representing-algorithms/pseudocode-activities"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FIYiL8vZKJlABdDx9p0eI%2Fimage.png?alt=media&token=e9dbc2d7-9cf2-4ecd-989b-8d09e1b9974f",
+      "local": "files/IYiL8vZKJlABdDx9p0eI__image.png"
+    },
+    "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FBZYXcKQJdA8E8Qt0t3XY%2Fimage.png?alt=media&amp;token=ed955599-77e0-4d8f-860f-4b96d12e8f71": {
+      "pages": [
+        "unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-github-repository",
+        "unit-2-mechatronics/4-assessment-task-2/setting-up-github"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FBZYXcKQJdA8E8Qt0t3XY%2Fimage.png?alt=media&token=ed955599-77e0-4d8f-860f-4b96d12e8f71",
+      "local": "files/BZYXcKQJdA8E8Qt0t3XY__image.png"
+    },
+    "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FlpCOgaW75kaec44aTe0O%2Fimage.png?alt=media&amp;token=a8116199-6f96-4a6b-832f-006a198940d8": {
+      "pages": [
+        "unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-github-repository",
+        "unit-2-mechatronics/4-assessment-task-2/setting-up-github"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FlpCOgaW75kaec44aTe0O%2Fimage.png?alt=media&token=a8116199-6f96-4a6b-832f-006a198940d8",
+      "local": "files/lpCOgaW75kaec44aTe0O__image.png"
+    },
+    "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FpwEutE7aebPK3A3EJ8yc%2Fimage.png?alt=media&amp;token=429692b8-ddc7-4348-839e-6d5106dd2781": {
+      "pages": [
+        "unit-2-mechatronics/4-assessment-task-2/task-guide/algorithms"
+      ],
+      "url": "https://1444032343-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F4gikgBQGRUb49XMCrCgU%2Fuploads%2FpwEutE7aebPK3A3EJ8yc%2Fimage.png?alt=media&token=429692b8-ddc7-4348-839e-6d5106dd2781",
+      "local": "files/pwEutE7aebPK3A3EJ8yc__image.png"
+    },
+    "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FI8vEzM7Fgb1pR4OEM92J%2Fimage.png?alt=media&amp;token=23ac977c-35bc-43b0-a156-354edfc92412": {
+      "pages": [
+        "unit-3-games-and-simulations/2-modelling-systems/context-diagrams"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FI8vEzM7Fgb1pR4OEM92J%2Fimage.png?alt=media&token=23ac977c-35bc-43b0-a156-354edfc92412",
+      "local": "files/I8vEzM7Fgb1pR4OEM92J__image.png"
+    },
+    "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FOEDtIbvBllWryDhz61Kg%2Fimage.png?alt=media&amp;token=76a1a097-13b7-4434-863b-f1e0086a4f2c": {
+      "pages": [
+        "unit-3-games-and-simulations/2-modelling-systems/context-diagrams"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FOEDtIbvBllWryDhz61Kg%2Fimage.png?alt=media&token=76a1a097-13b7-4434-863b-f1e0086a4f2c",
+      "local": "files/OEDtIbvBllWryDhz61Kg__image.png"
+    },
+    "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FrvL6Twc1Bfa0OFXqLE2I%2Fimage.png?alt=media&amp;token=6ecf3b52-1f5b-4daf-83b9-d945d7a109c8": {
+      "pages": [
+        "unit-3-games-and-simulations/2-modelling-systems/context-diagrams"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FrvL6Twc1Bfa0OFXqLE2I%2Fimage.png?alt=media&token=6ecf3b52-1f5b-4daf-83b9-d945d7a109c8",
+      "local": "files/rvL6Twc1Bfa0OFXqLE2I__image.png"
+    },
+    "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FCAQgzgKGmLuCz8aj5pqQ%2Fimage.png?alt=media&amp;token=a873e51b-879a-436d-b186-e96f8a1df5a3": {
+      "pages": [
+        "unit-3-games-and-simulations/2-modelling-systems/data-flow-diagrams"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FCAQgzgKGmLuCz8aj5pqQ%2Fimage.png?alt=media&token=a873e51b-879a-436d-b186-e96f8a1df5a3",
+      "local": "files/CAQgzgKGmLuCz8aj5pqQ__image.png"
+    },
+    "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FHLZs1NAkPTgmtbihKK2c%2Fimage.png?alt=media&amp;token=0b5f8c55-7f5e-4b1b-b6e2-139b4f207b1a": {
+      "pages": [
+        "unit-3-games-and-simulations/2-modelling-systems/data-flow-diagrams"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FHLZs1NAkPTgmtbihKK2c%2Fimage.png?alt=media&token=0b5f8c55-7f5e-4b1b-b6e2-139b4f207b1a",
+      "local": "files/HLZs1NAkPTgmtbihKK2c__image.png"
+    },
+    "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FkJUapMozRqC1JhQZqbwa%2Fimage.png?alt=media&amp;token=b04c7593-ed44-46d1-bad9-e931ba12b748": {
+      "pages": [
+        "unit-3-games-and-simulations/2-modelling-systems/structure-charts"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FkJUapMozRqC1JhQZqbwa%2Fimage.png?alt=media&token=b04c7593-ed44-46d1-bad9-e931ba12b748",
+      "local": "files/kJUapMozRqC1JhQZqbwa__image.png"
+    },
+    "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FrALDSR5x6OQqHzI7lUiC%2Fimage.png?alt=media&amp;token=a97b9d56-e656-450d-945c-2f36bdf67510": {
+      "pages": [
+        "unit-3-games-and-simulations/2-modelling-systems/structure-charts"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FrALDSR5x6OQqHzI7lUiC%2Fimage.png?alt=media&token=a97b9d56-e656-450d-945c-2f36bdf67510",
+      "local": "files/rALDSR5x6OQqHzI7lUiC__image.png"
+    },
+    "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FhJ3u0saETKTwv49ACzav%2Fimage.png?alt=media&amp;token=f80743fb-25be-4e9b-9091-7cc52b1bc9c8": {
+      "pages": [
+        "unit-3-games-and-simulations/2-modelling-systems/decision-trees"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FhJ3u0saETKTwv49ACzav%2Fimage.png?alt=media&token=f80743fb-25be-4e9b-9091-7cc52b1bc9c8",
+      "local": "files/hJ3u0saETKTwv49ACzav__image.png"
+    },
+    "/files/YIczLuSKtMWNR3zUAnON": {
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/c-scripts"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FsJFXVjgCCGMHbtn04V7t%2FScripts.zip?alt=media&token=6f45a79f-1e5c-49ab-af22-a253511ff036",
+      "local": "files/sJFXVjgCCGMHbtn04V7t__Scripts.zip"
+    },
+    "/files/2H1IgnkOCAhdABHNBGTi": {
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/5-controlling-the-player"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2FCWSYOd4uz9Nmi0as4C6C%2FPlayerController.cs?alt=media&token=f76e8a02-a9f1-4e70-922b-b2f6214df53f",
+      "local": "files/CWSYOd4uz9Nmi0as4C6C__PlayerController.cs"
+    },
+    "/files/wn58eQLVYmQRhwzxoqsE": {
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/5-controlling-the-player"
+      ],
+      "url": "https://1678667815-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfhjLkhyTe1IYhZcpt4nX%2Fuploads%2F0OETXDuzl5tTSRS1OUUT%2FPlayer.cs?alt=media&token=ba1b23fa-5fce-4b61-9427-6683f0e3224a",
+      "local": "files/0OETXDuzl5tTSRS1OUUT__Player.cs"
+    }
+  },
+  "images": {
+    "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcNfVBoo6QSqbplRfsN0lmLBWcFpZ2BPS7uxxAHkmJQGDPmdvmmhKH7vTOosQj4i1V3XtqqZGz8MSUtjwFfL_7_mGrA6k2w1SBvLvzU9I6YK94_ZDISlnjJCZXqApRjMKTEyQV?key=VzQvr8hIBpF8rBmj-L_9OUG3": {
+      "pages": [
+        "unit-2-data-science/5-task-guide/phase-2-researching-and-planning/data-dictionary"
+      ],
+      "local": "files/vr8hIBpF8rBmjL_9OUG3__unnamed.png"
+    }
+  },
+  "embeds": {
+    "https://groklearning.com/course/intro-python-1/": {
+      "kind": "other",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/revisiting-python/grok-academy-introduction-to-python"
+      ]
+    },
+    "https://groklearning.com/course/intro-python-2/": {
+      "kind": "other",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/revisiting-python/grok-academy-introduction-to-python"
+      ]
+    },
+    "https://learn.microsoft.com/en-us/shows/intro-to-python-development/?authuser=0&wt.mc_id=python-c9-niner": {
+      "kind": "other",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/revisiting-python/for-more-advanced-users"
+      ]
+    },
+    "https://learn.microsoft.com/en-us/shows/more-python-for-beginners/?authuser=0": {
+      "kind": "other",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/revisiting-python/for-more-advanced-users"
+      ]
+    },
+    "https://www.pythonguis.com/tkinter/": {
+      "kind": "other",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/revisiting-python/for-more-advanced-users"
+      ]
+    },
+    "https://www.youtube.com/watch?index=7&list=PLyH7UFQzuDWcsiICLG5cbOc4aYx-Cfrm-&v=xPvuJB33Fco": {
+      "kind": "youtube",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode",
+        "unit-2-mechatronics/2-representing-algorithms/representing-algorithms"
+      ]
+    },
+    "https://www.youtube.com/watch?index=8&list=PLyH7UFQzuDWcsiICLG5cbOc4aYx-Cfrm-&v=Yw2Rxa6gfVg": {
+      "kind": "youtube",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode",
+        "unit-2-mechatronics/2-representing-algorithms/representing-algorithms"
+      ]
+    },
+    "https://www.youtube.com/watch?index=9&list=PLyH7UFQzuDWcsiICLG5cbOc4aYx-Cfrm-&v=PbhfRF68GI4": {
+      "kind": "youtube",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode",
+        "unit-2-mechatronics/2-representing-algorithms/representing-algorithms"
+      ]
+    },
+    "https://www.youtube.com/watch?index=16&list=PLyH7UFQzuDWcsiICLG5cbOc4aYx-Cfrm-&v=zdhi4lFRX8s": {
+      "kind": "youtube",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode",
+        "unit-2-mechatronics/2-representing-algorithms/representing-algorithms"
+      ]
+    },
+    "https://excalidraw.com/": {
+      "kind": "other",
+      "pages": [
+        "unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode/flowchart-activities",
+        "unit-2-mechatronics/2-representing-algorithms/representing-algorithms/flowchart-activities"
+      ]
+    },
+    "https://drive.google.com/file/d/1rygkTypMZznUCI-gAOK2conyEpTjiJPB/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides"
+      ],
+      "local": [
+        "drive/1rygkTypMZznUCI-gAOK2conyEpTjiJPB__9CT Introductory Theory.pdf"
+      ]
+    },
+    "https://docs.google.com/presentation/d/1TbE2OYcRA4pIU4i6BmcAwgXb0-YcexkT/edit?ouid=103980595399381006248&rtpof=true&sd=true&usp=sharing": {
+      "kind": "google-presentation",
+      "pages": [
+        "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides"
+      ],
+      "local": [
+        "drive/1TbE2OYcRA4pIU4i6BmcAwgXb0-YcexkT__export.pdf",
+        "drive/1TbE2OYcRA4pIU4i6BmcAwgXb0-YcexkT__export.pptx"
+      ]
+    },
+    "https://docs.google.com/presentation/d/1bEM0uOcrVUdBVjKsIq4-DZqqbx7akG2xLW2IEPsTCfQ/edit?usp=sharing": {
+      "kind": "google-presentation",
+      "pages": [
+        "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.1-what-are-information-systems"
+      ],
+      "local": [
+        "drive/1bEM0uOcrVUdBVjKsIq4-DZqqbx7akG2xLW2IEPsTCfQ__export.pdf",
+        "drive/1bEM0uOcrVUdBVjKsIq4-DZqqbx7akG2xLW2IEPsTCfQ__export.pptx"
+      ]
+    },
+    "https://docs.google.com/presentation/d/1b-rHfMWKH_X4f0wuMCwxdDsEBQ1qGgCO/edit?ouid=103980595399381006248&rtpof=true&sd=true&usp=sharing": {
+      "kind": "google-presentation",
+      "pages": [
+        "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.2-hardware"
+      ],
+      "local": [
+        "drive/1b-rHfMWKH_X4f0wuMCwxdDsEBQ1qGgCO__export.pdf",
+        "drive/1b-rHfMWKH_X4f0wuMCwxdDsEBQ1qGgCO__export.pptx"
+      ]
+    },
+    "https://docs.google.com/presentation/d/1pRdyi1Rxaa-yc_UUIhV-0clv0tYeT_Db/edit?ouid=103980595399381006248&rtpof=true&sd=true&usp=sharing": {
+      "kind": "google-presentation",
+      "pages": [
+        "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.3-software"
+      ],
+      "local": [
+        "drive/1pRdyi1Rxaa-yc_UUIhV-0clv0tYeT_Db__export.pdf",
+        "drive/1pRdyi1Rxaa-yc_UUIhV-0clv0tYeT_Db__export.pptx"
+      ]
+    },
+    "https://docs.google.com/presentation/d/1jjHm5esM1XdoVNL2g18fSw-OleWP3G1B/edit?ouid=103980595399381006248&rtpof=true&sd=true&usp=sharing": {
+      "kind": "google-presentation",
+      "pages": [
+        "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.4-data-and-information"
+      ],
+      "local": [
+        "drive/1jjHm5esM1XdoVNL2g18fSw-OleWP3G1B__export.pdf",
+        "drive/1jjHm5esM1XdoVNL2g18fSw-OleWP3G1B__export.pptx"
+      ]
+    },
+    "https://docs.google.com/presentation/d/1AC9lTEwvwbC3RfJMlH-HxfIuVipbfB9F/edit?ouid=103980595399381006248&rtpof=true&sd=true&usp=sharing": {
+      "kind": "google-presentation",
+      "pages": [
+        "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.5-people-and-processes"
+      ],
+      "local": [
+        "drive/1AC9lTEwvwbC3RfJMlH-HxfIuVipbfB9F__export.pdf",
+        "drive/1AC9lTEwvwbC3RfJMlH-HxfIuVipbfB9F__export.pptx"
+      ]
+    },
+    "https://docs.google.com/presentation/d/15cveicJHZXorkPBG6SeoYFV3Jhm_wggw/edit?ouid=103980595399381006248&rtpof=true&sd=true&usp=sharing": {
+      "kind": "google-presentation",
+      "pages": [
+        "unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.6-issues-and-cybersecurity"
+      ],
+      "local": [
+        "drive/15cveicJHZXorkPBG6SeoYFV3Jhm_wggw__export.pdf",
+        "drive/15cveicJHZXorkPBG6SeoYFV3Jhm_wggw__export.pptx"
+      ]
+    },
+    "https://drive.google.com/file/d/1y7OKKE4Yawez59ZtjjcxU6wz46Wo5n4I/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/4-data-science/excel-and-data-analysis"
+      ],
+      "local": [
+        "drive/1y7OKKE4Yawez59ZtjjcxU6wz46Wo5n4I__Microsoft Excel 1.1 - Sourcing Data.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1H0H505RlTkuhBQwDZEP3Rg8MNOs11OHJ/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/4-data-science/excel-and-data-analysis"
+      ],
+      "local": [
+        "drive/1H0H505RlTkuhBQwDZEP3Rg8MNOs11OHJ__Microsoft Excel 1.2 - Filtering Data and Creating Charts.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1lVOce-yOtpI05--efU7GjyHI1iRdANs7/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/4-data-science/excel-and-data-analysis"
+      ],
+      "local": [
+        "drive/1lVOce-yOtpI05--efU7GjyHI1iRdANs7__Microsoft Excel 1.3 - Formulas.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/19Fe9IKwciod3LwD1pag1SZKSiicz3q5a/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/4-data-science/data-science-with-python-tutorials/accessing-the-tutorials"
+      ],
+      "local": [
+        "drive/19Fe9IKwciod3LwD1pag1SZKSiicz3q5a__1 - Accessing Tutorial and Activity Files.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1ICPu5S3FSdc3_NkQSwRX5yjEuol0JEuR/view": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/4-data-science/data-science-with-python-tutorials/accessing-the-tutorials"
+      ],
+      "local": [
+        "drive/1ICPu5S3FSdc3_NkQSwRX5yjEuol0JEuR__2 - VS Code and Jupyter Notebook.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1hbjpVQ6p3d5IbTWRFGkOM76QJkwPIeru/view": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/4-data-science/data-science-with-python-tutorials/accessing-the-tutorials"
+      ],
+      "local": [
+        "drive/1hbjpVQ6p3d5IbTWRFGkOM76QJkwPIeru__3 - Using the Tutorials to Complete Activities.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1uSTC1QsXunGkgvBvbCeSz7QqGvg1A3Z3/view": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/4-data-science/data-science-with-python-tutorials/accessing-the-tutorials"
+      ],
+      "local": [
+        "drive/1uSTC1QsXunGkgvBvbCeSz7QqGvg1A3Z3__4 - Final Advice and Committing to Github.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1jFAir4TI9H2ZJGbYtV23SRkJuI3qpOoP/view": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/5-task-guide/task-1/setting-up-git-repository"
+      ],
+      "local": [
+        "drive/1jFAir4TI9H2ZJGbYtV23SRkJuI3qpOoP__9CT - GitHub Task 1.mp4"
+      ]
+    },
+    "https://www.markdownguide.org/basic-syntax/": {
+      "kind": "other",
+      "pages": [
+        "unit-2-data-science/5-task-guide/task-1/setting-up-markdown-jupyter",
+        "unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start",
+        "unit-2-mechatronics/4-assessment-task-2/markdown-formatting-guide"
+      ]
+    },
+    "https://drive.google.com/file/d/1shAtGSHzUsdbut5GwYctagAje85e-mDK/view": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-data-science/5-task-guide/task-1/setting-up-markdown-jupyter"
+      ],
+      "local": [
+        "drive/1shAtGSHzUsdbut5GwYctagAje85e-mDK__9CT - Markdown Task 1.mp4"
+      ]
+    },
+    "https://www.nsw.gov.au/education-and-training/nesa/hsc/student-guide/glossary": {
+      "kind": "other",
+      "pages": [
+        "unit-2-mechatronics/3-research-mechatronics/research-task/directional-verbs"
+      ]
+    },
+    "https://core-electronics.com.au/courses/raspberry-pi-pico-workshop/": {
+      "kind": "other",
+      "pages": [
+        "unit-2-mechatronics/3-raspberry-pi-pico/raspberry-pi-pico-tutorials/tutorials"
+      ]
+    },
+    "https://drive.google.com/file/d/1MjocPzLZEpTj3-t5lbzL_dbDCuWDKQWE/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-mechatronics/4-assessment-task-2/mechatronics-project"
+      ],
+      "local": [
+        "drive/1MjocPzLZEpTj3-t5lbzL_dbDCuWDKQWE__Year 9 Computing Tech - Assessment Task 2 2026.pdf"
+      ]
+    },
+    "https://drive.google.com/file/d/1jFAir4TI9H2ZJGbYtV23SRkJuI3qpOoP/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-github-repository",
+        "unit-2-mechatronics/4-assessment-task-2/setting-up-github"
+      ],
+      "local": [
+        "drive/1jFAir4TI9H2ZJGbYtV23SRkJuI3qpOoP__9CT - GitHub Task 1.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1shAtGSHzUsdbut5GwYctagAje85e-mDK/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-markdown-documentation"
+      ],
+      "local": [
+        "drive/1shAtGSHzUsdbut5GwYctagAje85e-mDK__9CT - Markdown Task 1.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1qvgavs8YPlUAOyaXcNa5Pf8bg8G079hp/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/samples-from-previous-years"
+      ],
+      "local": [
+        "drive/1qvgavs8YPlUAOyaXcNa5Pf8bg8G079hp__Kirby adventure.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1ghOU5fpTSFE8EKUmwWrHpUbp9yj6qNj4/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/samples-from-previous-years"
+      ],
+      "local": [
+        "drive/1ghOU5fpTSFE8EKUmwWrHpUbp9yj6qNj4__Mouse Mayhem Showcase Video.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/18bhHH_5waq-WA2DEOOdmt-SFFarFOg55/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/samples-from-previous-years"
+      ],
+      "local": [
+        "drive/18bhHH_5waq-WA2DEOOdmt-SFFarFOg55__angel wings.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/13Rqb1_PdflEOeZRPkwZX0KhN8-HabyVY/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/samples-from-previous-years"
+      ],
+      "local": [
+        "drive/13Rqb1_PdflEOeZRPkwZX0KhN8-HabyVY__Harold's Hungry.mp4"
+      ]
+    },
+    "https://docs.google.com/document/d/1NfcXwDjmSl9_92vzNJ9-pureVhW2mOfWL44N2hFzPY0/edit?usp=sharing": {
+      "kind": "google-document",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/common-issues"
+      ],
+      "local": [
+        "drive/1NfcXwDjmSl9_92vzNJ9-pureVhW2mOfWL44N2hFzPY0__export.docx",
+        "drive/1NfcXwDjmSl9_92vzNJ9-pureVhW2mOfWL44N2hFzPY0__export.pdf"
+      ]
+    },
+    "https://drive.google.com/file/d/1Rb3tJWYRJ51-wU_F6P8T0JchwVuQcuTY/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/1-unity-course-introduction"
+      ],
+      "local": [
+        "drive/1Rb3tJWYRJ51-wU_F6P8T0JchwVuQcuTY__1.0 - Introduction to Course.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1KKp8F-f-3oZGfELTf6XjS-S6q6p4xu8H/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/1-unity-course-introduction"
+      ],
+      "local": [
+        "drive/1KKp8F-f-3oZGfELTf6XjS-S6q6p4xu8H__1.1 Chip's Chase.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/15i-52_Ea63QwmCyvQCUsyt_RfXvt-WZ7/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/2-create-your-character-sprites"
+      ],
+      "local": [
+        "drive/15i-52_Ea63QwmCyvQCUsyt_RfXvt-WZ7__2.0 - Create your Character Sprites.mp4"
+      ]
+    },
+    "https://www.piskelapp.com/": {
+      "kind": "other",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/2-create-your-character-sprites"
+      ]
+    },
+    "https://drive.google.com/file/d/1CoKSiNrjjt9reXStvq5yUI4ED6JgwrTl/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/2-create-your-character-sprites"
+      ],
+      "local": [
+        "drive/1CoKSiNrjjt9reXStvq5yUI4ED6JgwrTl__2.1 - Animate your Character.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/17zlut179TxhUG2LjlxUWBMKjZCYopbhU/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/2-create-your-character-sprites"
+      ],
+      "local": [
+        "drive/17zlut179TxhUG2LjlxUWBMKjZCYopbhU__2.2 - Export Spritesheet.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1KvioFLJIMpeonWY70QELktGh5305l5Ec/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/3-unity-interface-and-setup"
+      ],
+      "local": [
+        "drive/1KvioFLJIMpeonWY70QELktGh5305l5Ec__3.0 Create Unity Project.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1rzY_Ifdh8_ldqywWVG1u5vhuxD_4WlJn/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/3-unity-interface-and-setup"
+      ],
+      "local": [
+        "drive/1rzY_Ifdh8_ldqywWVG1u5vhuxD_4WlJn__3.1 - Unity Interface.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1tGU_AaKwhMxKo_qw3EwgqnNNq1v96jz4/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/3-unity-interface-and-setup"
+      ],
+      "local": [
+        "drive/1tGU_AaKwhMxKo_qw3EwgqnNNq1v96jz4__3.2 - Setup Asset Folders.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1lA0LK_xde-aHKwnoKpKI0cWJ9DSB21bL/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/4-animating-the-player"
+      ],
+      "local": [
+        "drive/1lA0LK_xde-aHKwnoKpKI0cWJ9DSB21bL__4.0 - Slicing Spritesheets.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1BU27PjAicXlfWRlfxn74mfi8F_M913hv/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/4-animating-the-player"
+      ],
+      "local": [
+        "drive/1BU27PjAicXlfWRlfxn74mfi8F_M913hv__4.1 - Creating New Animations.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1Fpo6DEuh0_iJqb2O5J2nQESLooXrifi0/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/4-animating-the-player"
+      ],
+      "local": [
+        "drive/1Fpo6DEuh0_iJqb2O5J2nQESLooXrifi0__4.2 - Adding More Animations.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1QMwnZs2kVqbekngdDsN1AXSeGKzIIQPE/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/4-animating-the-player"
+      ],
+      "local": [
+        "drive/1QMwnZs2kVqbekngdDsN1AXSeGKzIIQPE__4.3 - Controlling our Animations.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/14mFoYWFVmC4jgA1rD_-y0tt1kwRQcIwJ/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/5-controlling-the-player"
+      ],
+      "local": [
+        "drive/14mFoYWFVmC4jgA1rD_-y0tt1kwRQcIwJ__5.0 - Player Properties and Scripting.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1qq-L-S5a7YmRWkMTMuuhJWxpyMWFXWUj/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/5-controlling-the-player"
+      ],
+      "local": [
+        "drive/1qq-L-S5a7YmRWkMTMuuhJWxpyMWFXWUj__5.1 - Scripts Explained (Optional).mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/17ugV5JETYpChmzGM9-n4PjJbhOwYApmF/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/6-creating-a-tile-spritesheet"
+      ],
+      "local": [
+        "drive/17ugV5JETYpChmzGM9-n4PjJbhOwYApmF__6.0 Creating a Tile Spritesheet.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1iBWQkfVmVj_VVj2tjRh2OiOflLdOXEmQ/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/6-creating-a-tile-spritesheet"
+      ],
+      "local": [
+        "drive/1iBWQkfVmVj_VVj2tjRh2OiOflLdOXEmQ__6.1 Slicing a Tile Spritesheet.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1vMQOPIDoMLycNLEB3R63kPCOAmwtmZbo/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/6-creating-a-tile-spritesheet"
+      ],
+      "local": [
+        "drive/1vMQOPIDoMLycNLEB3R63kPCOAmwtmZbo__6.2 Creating and Using a Tilemap.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1WDU4JyWhlFgmcGgVaqxf7GuyMVE962qi/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/6-creating-a-tile-spritesheet"
+      ],
+      "local": [
+        "drive/1WDU4JyWhlFgmcGgVaqxf7GuyMVE962qi__6.3 Scripting the Camera.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1_wUcdA7JtiNPdZiV2anLXYgo9DT9-WRd/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/7-obstacles"
+      ],
+      "local": [
+        "drive/1_wUcdA7JtiNPdZiV2anLXYgo9DT9-WRd__7.0 Adding Obstacles.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1hGVuYczJKqWzfiyFvGqB35CAKlKtc8aO/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/7-obstacles"
+      ],
+      "local": [
+        "drive/1hGVuYczJKqWzfiyFvGqB35CAKlKtc8aO__7.1 Polygon Colliders, Tags and Triggers.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1AlWJewnNar9UIYKpcpbzPdkUIr7A9TCp/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/7-obstacles"
+      ],
+      "local": [
+        "drive/1AlWJewnNar9UIYKpcpbzPdkUIr7A9TCp__7.2 Scripting Obstacles.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1MmG3YIqyd7fHQ4-TZ5HLoOf1R7ePpQri/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/7-obstacles"
+      ],
+      "local": [
+        "drive/1MmG3YIqyd7fHQ4-TZ5HLoOf1R7ePpQri__7.3 Prefabs.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1sOcdy6WmlwA7V_aqCr1EsP7DEq5scIHK/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/8-collectibles"
+      ],
+      "local": [
+        "drive/1sOcdy6WmlwA7V_aqCr1EsP7DEq5scIHK__8.0 Creating Collectibles.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1Hgu6PEBD7vzSde2gSHeCbevRuLqfPbvy/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/8-collectibles"
+      ],
+      "local": [
+        "drive/1Hgu6PEBD7vzSde2gSHeCbevRuLqfPbvy__8.1 Scripting Collectibles.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/124hV5lDVFq0lt4FDHNYEblpVYkJBARUF/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/9-backgrounds"
+      ],
+      "local": [
+        "drive/124hV5lDVFq0lt4FDHNYEblpVYkJBARUF__9.0 Creating a Background.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1OquebFbk9djooyB8kzKPwhq72PR7dSQx/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/10-creating-a-splashscreen"
+      ],
+      "local": [
+        "drive/1OquebFbk9djooyB8kzKPwhq72PR7dSQx__10.0 - Creating a Splash Screen.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1Mg85t9T9IjmodKagdSmydgIGtI21E2ta/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/10-creating-a-splashscreen"
+      ],
+      "local": [
+        "drive/1Mg85t9T9IjmodKagdSmydgIGtI21E2ta__10.1 - Scripting the Buttons.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1tL0rRmVHyNv2qh27Cvd5Rblylw-QqE9_/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/10-creating-a-splashscreen"
+      ],
+      "local": [
+        "drive/1tL0rRmVHyNv2qh27Cvd5Rblylw-QqE9___10.2 - Build and Run.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1egm3mrlNiucpAvw-ynibsZuPSpLqdunX/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/11-finishing-your-game"
+      ],
+      "local": [
+        "drive/1egm3mrlNiucpAvw-ynibsZuPSpLqdunX__11.0 - Creating More Levels.mp4"
+      ]
+    },
+    "https://drive.google.com/file/d/1HtijAsuetboX_zd-qYCAFr8-DPOJVYWK/view?usp=sharing": {
+      "kind": "drive",
+      "pages": [
+        "unit-3-games-and-simulations/3-unity-tutorials/11-finishing-your-game"
+      ],
+      "local": [
+        "drive/1HtijAsuetboX_zd-qYCAFr8-DPOJVYWK__11.1 Testing the Whole Game.mp4"
+      ]
+    }
+  },
+  "failed_downloads": []
+}

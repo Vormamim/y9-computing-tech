@@ -1,0 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://gosford-high-school.gitbook.io/9-computing-tech/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://gosford-high-school.gitbook.io/9-computing-tech/unit-2-mechatronics/3-research-mechatronics/research-task/directional-verbs/nesa-glossary.md).
+
+# NESA Glossary
+
+<table><thead><tr><th width="151">Verb</th><th>Definition</th></tr></thead><tbody><tr><td>Analyse</td><td><p>Identify components and the relationship between them.</p><p></p><p>Draw out and relate implications.</p></td></tr><tr><td>Assess</td><td>Make a judgement of value, quality, outcomes, results or size.</td></tr><tr><td>Describe</td><td>Provide characteristics and features.</td></tr><tr><td>Examine</td><td>Inquire into.</td></tr><tr><td>Explain</td><td><p>Relate cause and effect.</p><p></p><p>Make the relationships between things evident.</p><p></p><p>Provide why and/or how.</p></td></tr><tr><td>Outline</td><td>Sketch in general terms; indicate the main features of.</td></tr></tbody></table>

@@ -1,0 +1,10 @@
+site/
+.venv/
+__pycache__/
+
+# Tutorial videos (3.9 GB) are backed up locally only; the site plays them from Google Drive
+raw/drive/*.mp4
+raw/drive/*.mov
+raw/drive/*.webm
+raw/drive/*.m4v
+raw/drive/*.mkv

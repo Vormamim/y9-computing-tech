@@ -1,0 +1,6 @@
+mkdocs-material
+# scraping tools (tools/scrape_gitbook.py) only
+requests
+beautifulsoup4
+gdown
+truststore

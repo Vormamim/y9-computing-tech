@@ -1,0 +1,198 @@
+site_name: 9 Computing Technology
+site_description: Year 9 Computing Technology - Gosford High School
+docs_dir: docs
+use_directory_urls: false   # keeps relative paths in raw HTML (figures, video) valid
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle: {icon: material/weather-night, name: Dark mode}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle: {icon: material/weather-sunny, name: Light mode}
+
+extra_css:
+  - assets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - "Home": index.md
+  - "9 Computing Tech":
+    - "Course Information":
+      - "Course Information": course-information.md
+      - "Course Rationale": course-information/course-rationale.md
+      - "2026 Assessment Schedule": course-information/2026-assessment-schedule.md
+      - "Using GitBook": course-information/using-gitbook.md
+    - "Get Started!": get-started.md
+  - "Unit 1 - Data Science":
+    - "1 - Unit Introduction":
+      - "Unit 1 - Data Science": unit-2-data-science/1-unit-introduction/unit-1-data-science.md
+    - "2 - Programming and Algorithms":
+      - "Revisiting Python":
+        - "Revisiting Python": unit-2-data-science/2-programming-and-algorithms/revisiting-python.md
+        - "Python Pre-Assessment": unit-2-data-science/2-programming-and-algorithms/revisiting-python/python-pre-assessment.md
+        - "Grok Academy: Introduction to Python": unit-2-data-science/2-programming-and-algorithms/revisiting-python/grok-academy-introduction-to-python.md
+        - "For More Advanced Users": unit-2-data-science/2-programming-and-algorithms/revisiting-python/for-more-advanced-users.md
+      - "Flowcharts and Pseudocode":
+        - "Flowcharts and Pseudocode": unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode.md
+        - "Pseudocode Activities": unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode/pseudocode-activities.md
+        - "Flowchart Activities": unit-2-data-science/2-programming-and-algorithms/flowcharts-and-pseudocode/flowchart-activities.md
+    - "3 - Introduction to Information Systems":
+      - "Introduction to Information Systems": unit-2-data-science/3-introduction-to-information-systems/introduction-to-information-systems.md
+      - "Workbook and Slides":
+        - "Workbook and Slides": unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides.md
+        - "3.1 What are Information Systems?": unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.1-what-are-information-systems.md
+        - "3.2 Hardware": unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.2-hardware.md
+        - "3.3 Software": unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.3-software.md
+        - "3.4 Data and Information": unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.4-data-and-information.md
+        - "3.5 People and Processes": unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.5-people-and-processes.md
+        - "3.6 Issues and Cybersecurity": unit-2-data-science/3-introduction-to-information-systems/workbook-and-slides/3.6-issues-and-cybersecurity.md
+    - "4 - Data Science":
+      - "Why Learn Data Science?":
+        - "Why Learn Data Science?": unit-2-data-science/4-data-science/why-learn-data-science.md
+        - "Imagine...": unit-2-data-science/4-data-science/why-learn-data-science/imagine....md
+        - "So why learn it?": unit-2-data-science/4-data-science/why-learn-data-science/so-why-learn-it.md
+        - "What If...?": unit-2-data-science/4-data-science/why-learn-data-science/what-if....md
+      - "Excel and Data Analysis":
+        - "Excel and Data Analysis": unit-2-data-science/4-data-science/excel-and-data-analysis.md
+        - "Questions to Complete": unit-2-data-science/4-data-science/excel-and-data-analysis/questions-to-complete.md
+      - "Data Science with Python Tutorials":
+        - "Data Science with Python Tutorials": unit-2-data-science/4-data-science/data-science-with-python-tutorials.md
+        - "Accessing the Tutorials": unit-2-data-science/4-data-science/data-science-with-python-tutorials/accessing-the-tutorials.md
+        - "Big Mac Data Activities": unit-2-data-science/4-data-science/data-science-with-python-tutorials/big-mac-data-activities.md
+    - "5 - Task Guide":
+      - "Task 1":
+        - "Task 1": unit-2-data-science/5-task-guide/task-1.md
+        - "Setting up Git Repository": unit-2-data-science/5-task-guide/task-1/setting-up-git-repository.md
+        - "Setting up Markdown / Jupyter": unit-2-data-science/5-task-guide/task-1/setting-up-markdown-jupyter.md
+      - "Phase 1: Identifying and Defining":
+        - "Phase 1: Identifying and Defining": unit-2-data-science/5-task-guide/phase-1-identifying-and-defining.md
+        - "Requirements Outline": unit-2-data-science/5-task-guide/phase-1-identifying-and-defining/requirements-outline.md
+      - "Phase 2: Researching and Planning":
+        - "Phase 2: Researching and Planning": unit-2-data-science/5-task-guide/phase-2-researching-and-planning.md
+        - "Data Dictionary": unit-2-data-science/5-task-guide/phase-2-researching-and-planning/data-dictionary.md
+      - "Phase 3: Producing and Implementing": unit-2-data-science/5-task-guide/phase-3-producing-and-implementing.md
+      - "Phase 4: Testing and Evaluating": unit-2-data-science/5-task-guide/phase-4-testing-and-evaluating.md
+  - "Unit 2 - Mechatronics":
+    - "1 - Unit Introduction":
+      - "Programming Mechatronics":
+        - "Programming Mechatronics": unit-2-mechatronics/1-unit-introduction/programming-mechatronics.md
+        - "Theory Content": unit-2-mechatronics/1-unit-introduction/programming-mechatronics/theory-content.md
+    - "2 - Representing Algorithms":
+      - "Representing Algorithms":
+        - "Representing Algorithms": unit-2-mechatronics/2-representing-algorithms/representing-algorithms.md
+        - "Further Examples": unit-2-mechatronics/2-representing-algorithms/representing-algorithms/further-examples.md
+        - "Pseudocode Activities": unit-2-mechatronics/2-representing-algorithms/representing-algorithms/pseudocode-activities.md
+        - "Flowchart Activities": unit-2-mechatronics/2-representing-algorithms/representing-algorithms/flowchart-activities.md
+    - "3 - Research Mechatronics":
+      - "Research Task":
+        - "Research Task": unit-2-mechatronics/3-research-mechatronics/research-task.md
+        - "Instructions": unit-2-mechatronics/3-research-mechatronics/research-task/instructions.md
+        - "Choices Explained": unit-2-mechatronics/3-research-mechatronics/research-task/choices-explained.md
+        - "Directional Verbs":
+          - "Directional Verbs": unit-2-mechatronics/3-research-mechatronics/research-task/directional-verbs.md
+          - "NESA Glossary": unit-2-mechatronics/3-research-mechatronics/research-task/directional-verbs/nesa-glossary.md
+        - "Working Collaboratively": unit-2-mechatronics/3-research-mechatronics/research-task/working-collaboratively.md
+    - "3 - Raspberry Pi PICO":
+      - "Raspberry Pi PICO Tutorials":
+        - "Raspberry Pi PICO Tutorials": unit-2-mechatronics/3-raspberry-pi-pico/raspberry-pi-pico-tutorials.md
+        - "Tutorials": unit-2-mechatronics/3-raspberry-pi-pico/raspberry-pi-pico-tutorials/tutorials.md
+    - "4 - Assessment Task 2":
+      - "Mechatronics Project":
+        - "Mechatronics Project": unit-2-mechatronics/4-assessment-task-2/mechatronics-project.md
+        - "Before We Start":
+          - "Before We Start": unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start.md
+          - "Setting Up GitHub Repository": unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-github-repository.md
+          - "Setting Up Markdown Documentation": unit-2-mechatronics/4-assessment-task-2/mechatronics-project/before-we-start/setting-up-markdown-documentation.md
+      - "Task Guide":
+        - "Task Guide": unit-2-mechatronics/4-assessment-task-2/task-guide.md
+        - "Requirements Outline": unit-2-mechatronics/4-assessment-task-2/task-guide/requirements-outline.md
+        - "Algorithms": unit-2-mechatronics/4-assessment-task-2/task-guide/algorithms.md
+        - "Development and Integration":
+          - "Development and Integration": unit-2-mechatronics/4-assessment-task-2/task-guide/development-and-integration.md
+          - "Comments vs Docstrings": unit-2-mechatronics/4-assessment-task-2/task-guide/development-and-integration/comments-vs-docstrings.md
+          - "For Your Assessment Task": unit-2-mechatronics/4-assessment-task-2/task-guide/development-and-integration/for-your-assessment-task.md
+        - "Testing and Debugging":
+          - "Testing and Debugging": unit-2-mechatronics/4-assessment-task-2/task-guide/testing-and-debugging.md
+          - "Test Cases": unit-2-mechatronics/4-assessment-task-2/task-guide/testing-and-debugging/test-cases.md
+          - "Final Product": unit-2-mechatronics/4-assessment-task-2/task-guide/testing-and-debugging/final-product.md
+        - "Evaluation":
+          - "Evaluation": unit-2-mechatronics/4-assessment-task-2/task-guide/evaluation.md
+          - "Peer Evaluation: PMI": unit-2-mechatronics/4-assessment-task-2/task-guide/evaluation/peer-evaluation-pmi.md
+          - "Final Evaluation Questions": unit-2-mechatronics/4-assessment-task-2/task-guide/evaluation/final-evaluation-questions.md
+      - "Markdown Formatting Guide": unit-2-mechatronics/4-assessment-task-2/markdown-formatting-guide.md
+      - "Setting up GitHub": unit-2-mechatronics/4-assessment-task-2/setting-up-github.md
+      - "Submitting Your Task": unit-2-mechatronics/4-assessment-task-2/submitting-your-task.md
+  - "Unit 3 - Games and Simulations":
+    - "1 - Game Design Theory":
+      - "Game Design and Requirements":
+        - "Game Design and Requirements": unit-3-games-and-simulations/1-game-design-theory/game-design-and-requirements.md
+        - "Activities": unit-3-games-and-simulations/1-game-design-theory/game-design-and-requirements/activities.md
+      - "User Interface and Controls":
+        - "User Interface and Controls": unit-3-games-and-simulations/1-game-design-theory/user-interface-and-controls.md
+        - "Activities": unit-3-games-and-simulations/1-game-design-theory/user-interface-and-controls/activities.md
+      - "Ethical, Social and Legal Issues":
+        - "Ethical, Social and Legal Issues": unit-3-games-and-simulations/1-game-design-theory/ethical-social-and-legal-issues.md
+        - "Activities": unit-3-games-and-simulations/1-game-design-theory/ethical-social-and-legal-issues/activities.md
+    - "2 - Modelling Systems":
+      - "IPO Charts":
+        - "IPO Charts": unit-3-games-and-simulations/2-modelling-systems/ipo-charts.md
+        - "Activities": unit-3-games-and-simulations/2-modelling-systems/ipo-charts/activities.md
+      - "Context Diagrams":
+        - "Context Diagrams": unit-3-games-and-simulations/2-modelling-systems/context-diagrams.md
+        - "Activities": unit-3-games-and-simulations/2-modelling-systems/context-diagrams/activities.md
+      - "Data Flow Diagrams":
+        - "Data Flow Diagrams": unit-3-games-and-simulations/2-modelling-systems/data-flow-diagrams.md
+        - "Activities": unit-3-games-and-simulations/2-modelling-systems/data-flow-diagrams/activities.md
+      - "Structure Charts":
+        - "Structure Charts": unit-3-games-and-simulations/2-modelling-systems/structure-charts.md
+        - "Activities": unit-3-games-and-simulations/2-modelling-systems/structure-charts/activities.md
+      - "Decision Trees":
+        - "Decision Trees": unit-3-games-and-simulations/2-modelling-systems/decision-trees.md
+        - "Activities": unit-3-games-and-simulations/2-modelling-systems/decision-trees/activities.md
+    - "3 - Unity Tutorials":
+      - "Learning Outcomes": unit-3-games-and-simulations/3-unity-tutorials/learning-outcomes.md
+      - "Samples from Previous Years": unit-3-games-and-simulations/3-unity-tutorials/samples-from-previous-years.md
+      - "Common Issues": unit-3-games-and-simulations/3-unity-tutorials/common-issues.md
+      - "C# Scripts": unit-3-games-and-simulations/3-unity-tutorials/c-scripts.md
+      - "1 - Unity Course Introduction": unit-3-games-and-simulations/3-unity-tutorials/1-unity-course-introduction.md
+      - "2 - Create your Character Sprites": unit-3-games-and-simulations/3-unity-tutorials/2-create-your-character-sprites.md
+      - "3 - Unity Interface and Setup": unit-3-games-and-simulations/3-unity-tutorials/3-unity-interface-and-setup.md
+      - "4 - Animating the Player": unit-3-games-and-simulations/3-unity-tutorials/4-animating-the-player.md
+      - "5 - Controlling the Player": unit-3-games-and-simulations/3-unity-tutorials/5-controlling-the-player.md
+      - "6 - Creating a tile Spritesheet": unit-3-games-and-simulations/3-unity-tutorials/6-creating-a-tile-spritesheet.md
+      - "7 - Obstacles": unit-3-games-and-simulations/3-unity-tutorials/7-obstacles.md
+      - "8 - Collectibles": unit-3-games-and-simulations/3-unity-tutorials/8-collectibles.md
+      - "9 - Backgrounds": unit-3-games-and-simulations/3-unity-tutorials/9-backgrounds.md
+      - "10 - Creating a Splashscreen": unit-3-games-and-simulations/3-unity-tutorials/10-creating-a-splashscreen.md
+      - "11 - Finishing your Game": unit-3-games-and-simulations/3-unity-tutorials/11-finishing-your-game.md
