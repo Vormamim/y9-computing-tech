@@ -1,0 +1,177 @@
+/* ============================================================
+   Vormamim house style, mapped onto MkDocs Material.
+   Tokens are copied verbatim from the house style; everything
+   below them only points Material's variables at those tokens.
+   ============================================================ */
+:root {
+  --bg:#0A0E13; --panel:#121821; --panel-alt:#1A222C; --border:#26323D;
+  --text:#E7EEF4; --text-dim:#8496A6; --text-faint:#54636F;
+  --net:#4FD1C5; --net-dim:#1E4A47; --host:#F2A65A; --host-dim:#4A331B;
+  --danger:#E4626F; --danger-dim:#4A2027; --blue:#5B9BF2; --blue-dim:#1E3350;
+  --violet:#B98CF2; --violet-dim:#332048; --green:#8FD17A; --green-dim:#294222;
+  --mono:'IBM Plex Mono', ui-monospace, monospace; --display:'Space Grotesk', sans-serif;
+}
+
+/* --- Material colour variables -> house tokens ------------------ */
+[data-md-color-scheme="slate"] {
+  --md-hue: 210;
+  --md-default-bg-color: var(--bg);
+  --md-default-fg-color: var(--text);
+  --md-default-fg-color--light: var(--text-dim);
+  --md-default-fg-color--lighter: var(--text-faint);
+  --md-default-fg-color--lightest: var(--border);
+  --md-typeset-color: var(--text);
+  --md-typeset-a-color: var(--net);
+
+  --md-primary-fg-color: var(--net);
+  --md-primary-fg-color--light: var(--net);
+  --md-primary-fg-color--dark: var(--net-dim);
+  --md-primary-bg-color: var(--bg);
+  --md-primary-bg-color--light: var(--text-dim);
+  --md-accent-fg-color: var(--host);
+  --md-accent-fg-color--transparent: rgba(242,166,90,0.1);
+
+  --md-code-bg-color: var(--panel);
+  --md-code-fg-color: var(--text);
+  --md-code-hl-keyword-color: var(--violet);
+  --md-code-hl-function-color: var(--net);
+  --md-code-hl-string-color: var(--host);
+  --md-code-hl-number-color: var(--green);
+  --md-code-hl-constant-color: var(--blue);
+  --md-code-hl-comment-color: var(--text-faint);
+  --md-code-hl-name-color: var(--text);
+  --md-code-hl-operator-color: var(--text-dim);
+  --md-code-hl-punctuation-color: var(--text-dim);
+  --md-code-hl-variable-color: var(--text);
+
+  --md-typeset-mark-color: var(--host-dim);
+  --md-typeset-table-color: var(--border);
+  --md-footer-bg-color: var(--panel);
+  --md-footer-bg-color--dark: var(--bg);
+  --md-footer-fg-color: var(--text);
+  --md-footer-fg-color--light: var(--text-dim);
+  --md-footer-fg-color--lighter: var(--text-faint);
+}
+
+body {
+  background:
+    radial-gradient(ellipse 900px 500px at 15% -10%, rgba(79,209,197,0.08), transparent),
+    radial-gradient(ellipse 900px 500px at 90% 10%, rgba(242,166,90,0.08), transparent),
+    var(--bg);
+  background-attachment: fixed;
+}
+.md-main, .md-container { background: transparent; }
+
+/* --- Header: translucent bar like the house navbar ---------------- */
+.md-header {
+  background: rgba(10,14,19,.88);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+  box-shadow: none;
+}
+.md-header__title { font-family: var(--display); font-weight: 700; }
+.md-header__button.md-logo img, .md-header__button.md-logo svg { height: 1.5rem; width: auto; }
+.md-tabs { background: var(--panel); border-bottom: 1px solid var(--border); }
+.md-search__form { background: var(--panel-alt); border: 1px solid var(--border); border-radius: 6px; }
+
+/* --- Type ------------------------------------------------------- */
+.md-typeset { font-size: .74rem; line-height: 1.7; }
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4,
+.md-nav__title, .md-nav__item--section > .md-nav__link {
+  font-family: var(--display);
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+.md-typeset h1 { font-size: clamp(1.6rem, 4vw, 2.1rem); margin-bottom: .6em; }
+.md-typeset h2 { font-size: 1.25rem; }
+.md-typeset h3 { font-size: 1rem; }
+
+/* Eyebrow dot before each page title, as on house headers */
+.md-typeset h1::before {
+  content: ""; display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  background: var(--net); box-shadow: 0 0 8px var(--net);
+  vertical-align: middle; margin: 0 .5em .2em 0;
+}
+
+/* --- Sidebar ---------------------------------------------------- */
+.md-nav__item--section > .md-nav__link {
+  font-size: .62rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-dim);
+}
+.md-nav__link--active, .md-nav__link:focus, .md-nav__link:hover { color: var(--net); }
+
+/* --- Buttons: .md-button -> house .btn -------------------------- */
+.md-typeset .md-button {
+  background: var(--net-dim); border: 1px solid var(--net); color: var(--net);
+  font-family: var(--display); font-weight: 700; font-size: .66rem;
+  padding: .45em 1.1em; border-radius: 6px; margin: .2em .2em .2em 0;
+}
+.md-typeset .md-button:hover, .md-typeset .md-button:focus {
+  background: var(--net); border-color: var(--net); color: var(--bg);
+}
+
+/* --- Code: house panel ------------------------------------------ */
+.md-typeset pre > code, .md-typeset code {
+  border: 1px solid var(--border); border-radius: 8px;
+}
+.md-typeset :not(pre) > code { border-radius: 4px; padding: .1em .35em; }
+.md-typeset .highlight span.filename {
+  background: var(--panel-alt); border: 1px solid var(--border); border-bottom: none;
+  font-family: var(--mono); font-weight: 400; color: var(--text-dim);
+}
+
+/* --- Admonitions: house panels with token accents ---------------- */
+.md-typeset .admonition, .md-typeset details {
+  background: var(--panel); border: 1px solid var(--border); border-left-width: 3px;
+  border-radius: 10px; box-shadow: none; font-size: .72rem;
+}
+.md-typeset .admonition-title, .md-typeset summary {
+  font-family: var(--display); font-weight: 700; background: transparent !important;
+}
+.md-typeset .admonition.admonition, .md-typeset details.note, .md-typeset details[class] { border-color: var(--border); }
+.md-typeset .admonition.note, .md-typeset details.note { border-left-color: var(--net); }
+.md-typeset .admonition.info { border-left-color: var(--blue); }
+.md-typeset .admonition.success { border-left-color: var(--green); }
+.md-typeset .admonition.warning, .md-typeset .admonition.tip { border-left-color: var(--host); }
+.md-typeset .admonition.danger { border-left-color: var(--danger); }
+.md-typeset .note > .admonition-title::before, .md-typeset details.note > summary::before { background-color: var(--net); }
+.md-typeset .info > .admonition-title::before { background-color: var(--blue); }
+.md-typeset .success > .admonition-title::before { background-color: var(--green); }
+.md-typeset .warning > .admonition-title::before, .md-typeset .tip > .admonition-title::before { background-color: var(--host); }
+.md-typeset .danger > .admonition-title::before { background-color: var(--danger); }
+.md-typeset details > summary::after { background-color: var(--text-dim); }
+
+/* --- Tables: house table.data ----------------------------------- */
+.md-typeset table:not([class]) {
+  background: var(--panel); border: 1px solid var(--border); border-radius: 10px; font-size: .68rem;
+}
+.md-typeset table:not([class]) th {
+  font-family: var(--display); font-size: .56rem; text-transform: uppercase; letter-spacing: 0.06em;
+  color: var(--text-dim); background: var(--panel-alt); border-bottom: 1px solid var(--border);
+}
+.md-typeset table:not([class]) td { border-top: 1px solid var(--border); }
+
+/* --- Tabs ------------------------------------------------------- */
+.md-typeset .tabbed-labels > label { font-family: var(--display); font-weight: 700; }
+
+/* --- Highlights: GitBook colours remapped onto house dim/bright pairs
+   (the inline styles came from GitBook and were built for a light page) */
+.md-typeset mark { background: var(--host-dim) !important; color: var(--host) !important; border-radius: 3px; padding: 0 .2em; }
+.md-typeset mark[style*="red"], .md-typeset mark[style*="#fecaca"] { background: var(--danger-dim) !important; color: var(--danger) !important; }
+.md-typeset mark[style*="green"], .md-typeset mark[style*="#bbf7d0"] { background: var(--green-dim) !important; color: var(--green) !important; }
+.md-typeset mark[style*="blue"], .md-typeset mark[style*="#bfdbfe"] { background: var(--blue-dim) !important; color: var(--blue) !important; }
+.md-typeset mark[style*="purple"] { background: var(--violet-dim) !important; color: var(--violet) !important; }
+
+/* --- Images: GitBook screenshots sit on a panel ------------------- */
+.md-typeset figure img, .md-typeset p > img { border: 1px solid var(--border); border-radius: 8px; }
+.md-typeset figcaption { color: var(--text-dim); font-size: .62rem; }
+
+/* --- Stepper (from extra.css) in house colours -------------------- */
+.gb-step { border-left-color: var(--border); }
+.gb-step-num { background: var(--net-dim); color: var(--net); border: 1px solid var(--net); font-family: var(--display); }
+
+/* --- Footer ----------------------------------------------------- */
+.md-footer { border-top: 1px solid var(--border); position: relative; z-index: 4; }
+.md-footer__title, .md-footer__direction { font-family: var(--display); }
